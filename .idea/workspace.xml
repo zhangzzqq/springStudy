@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79b487b0-466f-480c-8e71-ef062a8dd083" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/.m2/repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2TeRhNCzZiQ1t5ydpnTYDNhkalL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zq/study/newcar1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/zq/study/newcar1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zq.study.newcar4" />
+      <recent name="com.zq.study.newcar3" />
+      <recent name="com.zq.study.newcar2" />
+      <recent name="com.zq.study.newcar1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/zq/study" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Car (2)">
+    <configuration name="Car (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zq.study.newcar2.Car" />
+      <module name="springStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zq.study.newcar2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Car (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zq.study.newcar3.Car" />
+      <module name="springStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zq.study.newcar3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zq.study.car.Car" />
+      <module name="springStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zq.study.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zq.study.Test1" />
+      <module name="springStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zq.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Car (2)" />
+        <item itemvalue="Application.Car (1)" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79b487b0-466f-480c-8e71-ef062a8dd083" name="Default Changelist" comment="" />
+      <created>1691401677283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691401677283</updated>
+      <workItem from="1691401678931" duration="3048000" />
+      <workItem from="1691405686280" duration="307000" />
+      <workItem from="1691409944201" duration="4139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="750" y="231" key="#Project_Structure" timestamp="1691401832010">
+      <screen x="58" y="25" width="1622" height="1025" />
+    </state>
+    <state x="750" y="231" key="#Project_Structure/58.25.1622.1025@58.25.1622.1025" timestamp="1691401832010" />
+    <state width="1580" height="226" key="GridCell.Tab.0.bottom" timestamp="1691416793227">
+      <screen x="58" y="25" width="1622" height="1025" />
+    </state>
+    <state width="1580" height="226" key="GridCell.Tab.0.bottom/58.25.1622.1025@58.25.1622.1025" timestamp="1691416793227" />
+    <state width="1580" height="226" key="GridCell.Tab.0.center" timestamp="1691416793226">
+      <screen x="58" y="25" width="1622" height="1025" />
+    </state>
+    <state width="1580" height="226" key="GridCell.Tab.0.center/58.25.1622.1025@58.25.1622.1025" timestamp="1691416793226" />
+    <state width="1580" height="226" key="GridCell.Tab.0.left" timestamp="1691416793226">
+      <screen x="58" y="25" width="1622" height="1025" />
+    </state>
+    <state width="1580" height="226" key="GridCell.Tab.0.left/58.25.1622.1025@58.25.1622.1025" timestamp="1691416793226" />
+    <state width="1580" height="226" key="GridCell.Tab.0.right" timestamp="1691416793227">
+      <screen x="58" y="25" width="1622" height="1025" />
+    </state>
+    <state width="1580" height="226" key="GridCell.Tab.0.right/58.25.1622.1025@58.25.1622.1025" timestamp="1691416793227" />
+    <state x="315" y="155" key="SettingsEditor" timestamp="1691410309623">
+      <screen x="58" y="25" width="1622" height="1025" />
+    </state>
+    <state x="315" y="155" key="SettingsEditor/58.25.1622.1025@58.25.1622.1025" timestamp="1691410309623" />
+    <state x="376" y="232" key="new project wizard" timestamp="1691404195211">
+      <screen x="58" y="25" width="1622" height="1025" />
+    </state>
+    <state x="376" y="232" key="new project wizard/58.25.1622.1025@58.25.1622.1025" timestamp="1691404195211" />
+    <state x="682" y="274" key="spring file set editor" timestamp="1691402853315">
+      <screen x="58" y="25" width="1622" height="1025" />
+    </state>
+    <state x="682" y="274" key="spring file set editor/58.25.1622.1025@58.25.1622.1025" timestamp="1691402853315" />
+  </component>
+</project>
