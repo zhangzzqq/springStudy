@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+        xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:p="http://www.springframework.org/schema/p"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <!-- Note: You need to define your whole class path for your CourseFactory.java class -->
+
+    <bean id="courseFactory" class="com.zq.study.framework5.eight.CourseFactory"></bean>
+    <bean id="courseId" class="com.zq.study.framework5.eight.CourseFactory"
+          factory-method="getCourses" factory-bean="courseFactory">
+    </bean>
+
+</beans>

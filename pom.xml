@@ -22,19 +22,36 @@
 
 
     <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
+
+<!--        <parent>-->
+<!--            <groupId>org.springframework.boot</groupId>-->
+<!--            <artifactId>spring-boot-starter-parent</artifactId>-->
+<!--            <version>2.2.6.RELEASE</version>-->
+<!--            <relativePath/> &lt;!&ndash; lookup parent from repository &ndash;&gt;-->
+<!--        </parent>-->
 
 
     <dependencies>
 
+<!--      spring framework  核心库-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>5.1.19.RELEASE</version>
+            <version>5.3.13</version>
         </dependency>
+
+
+<!--        与Spring不同，Spring Boot只需要一个依赖项来启动和运行Web应用程序-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>2.3.3.RELEASE</version>
+        </dependency>
+
     </dependencies>
 
 
